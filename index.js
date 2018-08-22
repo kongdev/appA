@@ -1,1 +1,1 @@
-console.log("123123123")
+console.log("666666666666")
